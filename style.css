@@ -1,0 +1,13 @@
+body
+{
+    background-color: #83cafa;
+    font-family: 'Lobster', cursive;
+
+}
+
+ul a:hover::before {
+    content: "⇨  ";}
+
+ul li a:hover {
+    color:red;
+}
